@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkvirdy_docs=self.webpackChunkvirdy_docs||[]).push([[1235],{8552:s=>{s.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);
