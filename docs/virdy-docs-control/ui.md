@@ -45,7 +45,7 @@ VIRDY 조작에 대한 **<span class="highlight_text">주요 기능</span>** 버
   - 단축키는 **'F3'** 입니다.
 
 :::caution
-위 기능은 내용이 다소 길어 **<span class="highlight_text">[기능 조작 페이지](../virdy-docs-control/virdy-docs-control)</span>**에서 설명됩니다.
+위 기능은 내용이 다소 길어 ...에서 설명됩니다.
 :::
 <br/>
 
