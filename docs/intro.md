@@ -2,46 +2,28 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# VIRDY
 
-Let's discover **Docusaurus in less than 5 minutes**.
+VIRDY는 어쩌구저쩌구...대략 설명... <br/>
+길게 쓰지마셈..
 
-## Getting Started
+## How to install
 
-Get started by **creating a new site**.
+사이트 어쩌구..어디서 다운로드... <br/>
+여기 안에 exe 넣어야되나..뭔가 짜치는데...
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+:::caution 주의 !
+종종 설치시 버그가 어쩌구...**[C++ Redistributable](https://learn.microsoft.com/ko-kr/cpp/windows/latest-supported-vc-redist?view=msvc-170)** 어쩌구 이거 설치...
+:::
 
-### What you'll need
+## Unity Version
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+VIRDY는 어떤 Unity 버전, 파이프라인 쓰는지..
 
-## Generate a new site
+## Discord
 
-Generate a new Docusaurus site using the **classic template**.
+오피셜 디코 서버 있음..버전 업데이트 알림 및 문의용..
 
-The classic template will automatically be added to your project after you run the command:
+## ETC
 
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+뭔가 더 쓸만한거 있으면..

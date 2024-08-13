@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'VIRDY User Document',
   tagline: 'VIRDY 솔루션의 공식 가이드 문서입니다.',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/VIRDY_logo.svg',
 
   // Set the production url of your site here
   url: 'https://github.com',
@@ -47,17 +47,17 @@ const config = {
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
-        blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
+        // blog: {
+        //   showReadingTime: true,
+        //   feedOptions: {
+        //     type: ['rss', 'atom'],
+        //     xslt: true,
+        //   },
+        //   // Please change this to your repo.
+        //   // Remove this to remove the "edit this page" links.
+        //   editUrl:
+        //     'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+        // },
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -69,7 +69,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/VIRDY_logo.svg',
       navbar: {
         title: 'VIRDY',
         logo: {
@@ -81,11 +81,11 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Docs',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          // {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/PARABLE-Ent/VIRDY-Docs',
             label: 'GitHub',
             position: 'right',
           },
@@ -93,48 +93,48 @@ const config = {
       },
       footer: {
         style: 'dark',
-        links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        // links: [
+        //   {
+        //     title: 'Docs',
+        //     items: [
+        //       {
+        //         label: 'Tutorial',
+        //         to: '/docs/intro',
+        //       },
+        //     ],
+        //   },
+        //   {
+        //     title: 'Community',
+        //     items: [
+        //       {
+        //         label: 'Stack Overflow',
+        //         href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+        //       },
+        //       {
+        //         label: 'Discord',
+        //         href: 'https://discordapp.com/invite/docusaurus',
+        //       },
+        //       {
+        //         label: 'Twitter',
+        //         href: 'https://twitter.com/docusaurus',
+        //       },
+        //     ],
+        //   },
+        //   {
+        //     title: 'More',
+        //     items: [
+        //       {
+        //         label: 'Blog',
+        //         to: '/blog',
+        //       },
+        //       {
+        //         label: 'GitHub',
+        //         href: 'https://github.com/PARABLE-Ent/VIRDY-Docs',
+        //       },
+        //     ],
+        //   },
+        // ],
+        copyright: `Copyright © ${new Date().getFullYear()} VIRDY, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
