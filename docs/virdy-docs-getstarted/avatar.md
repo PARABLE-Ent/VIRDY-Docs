@@ -1,6 +1,6 @@
 ---
-description: 'VIRDY 아바타 업로드 방법'
-sidebar_label: '아바타 설정'
+description: 'VIRDY 아바타 업로드 및 트래킹 설정'
+sidebar_label: '아바타 및 트래킹 설정'
 sidebar_position: 2
 ---
 
