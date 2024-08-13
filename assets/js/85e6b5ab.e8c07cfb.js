@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvirdy_docs=self.webpackChunkvirdy_docs||[]).push([[5441],{2379:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/VIRDY-Docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

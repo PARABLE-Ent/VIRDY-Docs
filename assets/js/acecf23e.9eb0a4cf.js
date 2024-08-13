@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvirdy_docs=self.webpackChunkvirdy_docs||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/VIRDY-Docs/blog","blogTitle":"Blog","authorsListPath":"/VIRDY-Docs/blog/authors"}')}}]);
