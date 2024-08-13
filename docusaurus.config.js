@@ -91,8 +91,8 @@ const config = {
           // },
         ],
       },
-      footer: {
-        style: 'dark',
+      // footer: {
+        // style: 'dark',
         // links: [
         //   {
         //     title: 'Docs',
@@ -134,8 +134,8 @@ const config = {
         //     ],
         //   },
         // ],
-        copyright: `Copyright © ${new Date().getFullYear()} VIRDY, Inc. Built with Docusaurus.`,
-      },
+        // copyright: `Copyright © ${new Date().getFullYear()} VIRDY, Inc. Built with Docusaurus.`,
+      // },
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
