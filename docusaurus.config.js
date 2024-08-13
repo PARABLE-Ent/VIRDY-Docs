@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'VIRDY User Document',
-  tagline: 'VIRDY 솔루션의 공식 가이드 문서입니다.',
+  tagline: 'VIRDY 공식 가이드 문서입니다.',
   favicon: 'img/VIRDY_logo.svg',
 
   // Set the production url of your site here
