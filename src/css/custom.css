@@ -6,25 +6,71 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
+  --ifm-color-primary: #07073a;
+  --ifm-color-primary-dark: rgb(33, 175, 144);
+  --ifm-color-primary-darker: rgb(31, 165, 136);
+  --ifm-color-primary-darkest: rgb(26, 136, 112);
+  --ifm-color-primary-light: rgb(70, 203, 174);
+  --ifm-color-primary-lighter: rgb(102, 212, 189);
+  --ifm-color-primary-lightest: rgb(146, 224, 208);
   --ifm-code-font-size: 95%;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
-[data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+.docusaurus-highlight-code-line {
+  background-color: rgba(0, 0, 0, 0.1);
+  display: block;
+  margin: 0 calc(-1 * var(--ifm-pre-padding));
+  padding: 0 var(--ifm-pre-padding);
+}
+
+html[data-theme='dark'] .docusaurus-highlight-code-line {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+/* 메인 페이지 타이틀 폰트 사이즈 */
+.hero__title {
+  font-size: 2.5rem;
+}
+/* 메인 페이지 서브타이틀 폰트 사이즈 */
+.hero__subtitle {
+  font-size: 1.25rem;
+}
+
+/* 활성화 된 목차에 대한 스타일 */
+.menu__link--active {
+  color: #280f86;
+  font-weight: bold;
+  background-color: #f0f0f0;
+  border-left: 4px solid #280f86
+}
+
+/* 특정 문자에 하이라이트 컬러 추가 (배경색) */
+.highlight {
+  background-color: #fff4d4;
+  padding: 0 0.1em;
+}
+
+/* hyperlink 전용 스타일 */
+.custom-link {
+  color: #4c0edf;
+  text-decoration: underline;
+}
+
+/* 강조용 스타일 */
+.highlight_text {
+  color: #150846;
+  padding: 0 0em;
+}
+
+/* caution용 스타일 */
+.highlight_caution {
+  background-color: #e4e4e0;
+  color: #f51515;
+  padding: 0 0em;
+}
+
+/* 1920x1080 이미지용 */
+.responsive-img {
+  width: 90%;
+  height: auto;
 }
