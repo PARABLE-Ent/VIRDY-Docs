@@ -8,7 +8,7 @@ sidebar_position: 1
 ## 기본 UI
 
 ![UI](/img/Page_UI/UI_1.png) <br/>
-**<span class="highlight_text">ESC</span>**를 눌러 인게임 내 기본 UI를 **<span class="highlight_text">On/Off</span>** 할 수 있습니다.
+<span class="highlight_text">**ESC**</span>를 눌러 인게임 내 기본 UI를 **<span class="highlight_text">On/Off</span>** 할 수 있습니다.
 
 ![alt](/img/Page_UI/UI_2.png) <br/>
 좌측 상단에서 확인할 수 있는 정보는 아래와 같습니다.
@@ -35,7 +35,7 @@ VIRDY 조작에 대한 **<span class="highlight_text">주요 기능</span>** 버
 
 - **카메라**
   - 클릭하여 카메라 설정 창을 On/Off 합니다.
-  - 단축키는 **'F1'**입니다.
+  - 단축키는 **'F1'** 입니다.
 - **아바타**
   - 클릭하여 아바타 조작 창을 On/Off 합니다.
   - 단축키는 **'F2'** 입니다.
@@ -51,7 +51,7 @@ VIRDY 조작에 대한 **<span class="highlight_text">주요 기능</span>** 버
 ## 카메라 / 아바타 조작 전환
 
 ![alt](/img/Page_UI/UI_5.png) <br/>
-**<span class="highlight_text">카메라 / 아바타 조작</span>**을 전환하는 버튼입니다. <br/>
+<span class="highlight_text">**카메라 / 아바타 조작**</span>을 전환하는 버튼입니다. <br/>
 클릭시 스위칭되며, 단축키는 **<span class="highlight_text">'T'</span>** 입니다.
 
 ## 프레임 및 지연시간
