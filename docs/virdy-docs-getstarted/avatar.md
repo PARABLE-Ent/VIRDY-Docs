@@ -38,11 +38,11 @@ VIRDY는 사용자의 캐릭터를 <span class="highlight_text">**액터**</span
 :::caution 정상적으로 세팅했는데 연결이 안돼요 !
 
 위 과정을 정상적으로 진행했음에도 페이셜 연결이 안되었다면, <br/>
-VIRDY 프로그램의 <span class="highlight_text">**방화벽을 허용**</span>하여야 합니다.
+VIRDY 프로그램의 **방화벽을 허용**하여야 합니다.
 
 ![AvatarSetImage7](/img/Page_AvatarSettings/7.png) <br/>
-윈도우 검색창에서 <span class="highlight_text">**'Windows 방화벽에서 앱 허용'**</span>을 입력 후 실행합니다. <br/>
-<span class="highlight_text">**'설정 변경'**</span>을 클릭 후 <span class="highlight_text">**'virdy'**</span>를 찾아 전부 활성화 해주세요.
+윈도우 검색창에서 **'Windows 방화벽에서 앱 허용'** 을 입력 후 실행합니다. <br/>
+**'설정 변경'** 을 클릭 후 **'virdy'** 를 찾아 전부 활성화 해주세요.
 
 :::
 

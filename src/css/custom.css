@@ -36,6 +36,7 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
   font-size: 1.25rem;
 }
 
+
 /* 활성화 된 목차에 대한 스타일 */
 .menu__link--active {
   color: #280f86;
@@ -44,11 +45,29 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
   border-left: 4px solid #280f86
 }
 
+/* 다크 모드에서의 활성화 된 목차 스타일 */
+html[data-theme='dark'] .menu__link--active {
+  color: #b698ec;
+  background-color: #3a3a3a;
+  border-left: 4px solid #b698ec;
+}
+
+
+
 /* 특정 문자에 하이라이트 컬러 추가 (배경색) */
 .highlight {
+  color: #000000;
   background-color: #fff4d4;
   padding: 0 0.1em;
 }
+
+/* 다크 모드에서의 하이라이트 스타일 */
+html[data-theme='dark'] .highlight {
+  color: #03000a;
+  background-color: #e1baf8;
+}
+
+
 
 /* hyperlink 전용 스타일 */
 .custom-link {
@@ -56,11 +75,25 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
   text-decoration: underline;
 }
 
+/* 다크 모드에서의 hyperlink 스타일 */
+html[data-theme='dark'] .custom-link {
+  color: #b6bdff;
+}
+
+
+
 /* 강조용 스타일 */
 .highlight_text {
   color: #150846;
   padding: 0 0em;
 }
+
+/* 다크 모드에서의 강조용 스타일 */
+html[data-theme='dark'] .highlight_text {
+  color: #b698ec;
+}
+
+
 
 /* caution용 스타일 */
 .highlight_caution {
@@ -68,6 +101,14 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
   color: #f51515;
   padding: 0 0em;
 }
+
+/* 다크 모드에서의 caution 스타일 */
+html[data-theme='dark'] .highlight_caution {
+  background-color: rgb(70, 70, 70);
+  color: #ff6f6f;
+}
+
+
 
 /* 1920x1080 이미지용 */
 .responsive-img {
@@ -83,6 +124,15 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
   transition: background-color 0.3s ease; /* 스크롤 시 부드러운 전환 */
 }
 
+/* 다크 모드에서의 Navbar 스타일 */
+html[data-theme='dark'] .navbar {
+  background-color: rgba(40, 40, 40, 0.5); /* 투명한 어두운 배경 */
+  backdrop-filter: blur(10px); /* 블러 효과 */
+  -webkit-backdrop-filter: blur(10px); /* 블러 효과 (웹킷 브라우저 지원) */
+}
+
+
+
 /* 스크롤 시 Navbar 스타일 변경 */
 .navbar--fixed-top {
   background-color: rgba(255, 255, 255, 0.8); /* 스크롤 시 약간 덜 투명한 배경 */
@@ -90,7 +140,22 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
   -webkit-backdrop-filter: blur(5px);
 }
 
+/* 다크 모드에서의 Navbar 스타일 */
+html[data-theme='dark'] .navbar {
+  background-color: rgba(212, 203, 255, 0.5); /* 투명한 어두운 배경 */
+  backdrop-filter: blur(10px); /* 블러 효과 */
+  -webkit-backdrop-filter: blur(10px); /* 블러 효과 (웹킷 브라우저 지원) */
+}
+
+
+
 .table-of-contents__link--active {
   color: #280f86; /* 활성화된 항목의 텍스트 색상 */
   font-weight: bold; /* 활성화된 항목의 글자 굵기 */
+}
+
+/* 다크 모드에서의 활성화된 TOC 항목 스타일 */
+html[data-theme='dark'] .table-of-contents__link--active {
+  color: #b3a4f7; /* 다크 모드에서 활성화된 항목의 텍스트 색상 */
+  font-weight: bold; /* 글자 굵기 유지 */
 }

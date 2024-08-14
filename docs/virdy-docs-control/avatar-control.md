@@ -18,7 +18,7 @@ sidebar_position: 3
 
 ![Control](/img/Page_Control/Control_17.png) <br/>
 아바타 조작 모드를 활성화하여 조작을 할 수 있습니다. <br/>
-위 버튼은 <a href="../virdy-docs-control/virdy-docs-ui#카메라--아바타-조작-전환" class="custom-link">**상단 버튼과 단축키 'T'**</a>로 이루어져 있습니다.
+위 버튼은 <a href="../virdy-docs-control/ui#카메라--아바타-조작-전환" class="custom-link">**상단 버튼과 단축키 'T'**</a>로 이루어져 있습니다.
 
 ![Control](/img/Page_Control/Control_18.png) <br/>
 아바타의 위치를 이동할 수 있는 조작 창입니다. <br/>
