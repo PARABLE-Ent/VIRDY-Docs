@@ -18,7 +18,13 @@ VIRDY는 어쩌구저쩌구...대략 설명... <br/>
 
 ## Unity Version
 
-VIRDY는 어떤 Unity 버전, 파이프라인 쓰는지..
+VIRDY는 어떤 Unity 버전, 파이프라인 쓰는지.. <br/>
+
+- **```Unity 2022.3.10f1```**
+- **```URP Forward+```**
+
+더 뭐 있나.. <br/>
+
 
 ## Discord
 

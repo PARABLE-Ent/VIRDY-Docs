@@ -47,21 +47,22 @@ CAM 01 ~ 09는 <span class="highlight_text">**고정 카메라**</span>입니다
 
 - **<span class="highlight_text">0번</span>** - 기본 화면입니다.
 
-- **<span class="highlight_text">1번</span>** - 화면을 반으로 나누어 2개의 카메라 시점을 보여줍니다. <br/> <img src="/VIRDY-Docs/img/Page_Control/Control_5.png" alt="asd" style={{ width: '50%' }}/>
+- **<span class="highlight_text">1번</span>** - 화면을 반으로 나누어 2개의 카메라 시점을 보여줍니다. <br/> <img src="/VIRDY-Docs/img/Page_Control/Control_5.png" alt="asd" width="60%;"/>
 
 
-- **<span class="highlight_text">2번</span>** - 현재 화면을 <span class="highlight_text">**3분할**</span> 합니다. <br/> <img src="/VIRDY-Docs/img/Page_Control/Control_6.png" alt="asd" style={{ width: '50%' }}/>
+- **<span class="highlight_text">2번</span>** - 현재 화면을 <span class="highlight_text">**3분할**</span> 합니다. <br/> <img src="/VIRDY-Docs/img/Page_Control/Control_6.png" alt="asd" width="60%;"/>
 
 
-- **<span class="highlight_text">3번</span>** - 우측 상단에 <span class="highlight_text">**작은 창**</span>을 만들어 2개의 카메라 시점을 보여줍니다. <br/> <img src="/VIRDY-Docs/img/Page_Control/Control_7.png" alt="asd" style={{ width: '50%' }}/>
+- **<span class="highlight_text">3번</span>** - 우측 상단에 <span class="highlight_text">**작은 창**</span>을 만들어 2개의 카메라 시점을 보여줍니다. <br/> <img src="/VIRDY-Docs/img/Page_Control/Control_7.png" alt="asd" width="60%;"/>
 
-- **<span class="highlight_text">2번</span>** - 화면을 복사하고 뒤집어 <span class="highlight_text">**좌우대칭 시점**</span>을 공유합니다. <br/> <img src="/VIRDY-Docs/img/Page_Control/Control_8.png" alt="asd" style={{ width: '50%' }}/>
+- **<span class="highlight_text">2번</span>** - 화면을 복사하고 뒤집어 <span class="highlight_text">**좌우대칭 시점**</span>을 공유합니다. <br/> <img src="/VIRDY-Docs/img/Page_Control/Control_8.png" alt="asd" width="60%;"/>
 
 ### 장면 크로스페이드
 
 활성화 시 카메라를 전환할 때 페이드됩니다.
 
 ### 모니터링 해상도 배율 및 프레임 제한
+
 모니터링되는 화면들의 <span class="highlight_text">**해상도 및 프레임**</span>을 조절할 수 있습니다. <br/>
 매니저 모드 혹은 스튜디오 모드에서 <span class="highlight_text">**프레임이 떨어질 경우**</span> 사용됩니다.
 

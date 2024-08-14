@@ -74,3 +74,23 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
   width: 90%;
   height: auto;
 }
+
+/* Navbar를 투명하게 처리하고, 블러 효과 추가 */
+.navbar {
+  background-color: rgba(255, 255, 255, 0.5); /* 투명한 흰색 배경 */
+  backdrop-filter: blur(10px); /* 블러 효과 */
+  -webkit-backdrop-filter: blur(10px); /* 블러 효과 (웹킷 브라우저 지원) */
+  transition: background-color 0.3s ease; /* 스크롤 시 부드러운 전환 */
+}
+
+/* 스크롤 시 Navbar 스타일 변경 */
+.navbar--fixed-top {
+  background-color: rgba(255, 255, 255, 0.8); /* 스크롤 시 약간 덜 투명한 배경 */
+  backdrop-filter: blur(5px); /* 스크롤 시 블러 효과 조정 */
+  -webkit-backdrop-filter: blur(5px);
+}
+
+.table-of-contents__link--active {
+  color: #280f86; /* 활성화된 항목의 텍스트 색상 */
+  font-weight: bold; /* 활성화된 항목의 글자 굵기 */
+}
