@@ -7,8 +7,7 @@ sidebar_position: 1
 
 ## 기본 UI
 
-<img src="/img/Page_UI/UI_1.png" alt="UI" className="responsive-img" />
-
+![UI](/img/Page_UI/UI_1.png) <br/>
 **<span class="highlight_text">ESC</span>**를 눌러 인게임 내 기본 UI를 **<span class="highlight_text">On/Off</span>** 할 수 있습니다.
 
 ![alt](/img/Page_UI/UI_2.png) <br/>
