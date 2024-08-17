@@ -1,15 +1,10 @@
 ---
-description: 'VIRDY SDK 기능 설명'
-sidebar_label: 'SDK 기능'
-sidebar_position: 2
+description: 'VIRDY SDK - UI 설명'
+sidebar_label: 'SDK - UI'
+sidebar_position: 3
 ---
 
-# SDK 기능
-
-SDK 기능 및 사용법 설명.. <br/>
-페이지 어떻게 나눌지 고민..페이지가 아니라 그냥 A4 문서 형태가 나은가
-
-## UI
+# SDK - UI
 
 Unity UI를 제작하면 일반적으로 기본 스크린상에 노출됩니다. <br/>
 콘텐츠를 진행하는 크리에이터 입장에서 월드 내에 사용 될 버튼들이 화면에 노출되는건 원치 않을 것입니다. <br/>
@@ -25,8 +20,8 @@ Unity UI를 제작하면 일반적으로 기본 스크린상에 노출됩니다.
 이와 같이 **```Manager View```** 에만 UI를 노출시켜 콘텐츠 진행에 불필요한 요소를 제거할 수 있습니다. <br/>
 반대로 크리에이터가 보게 되는 **```Main Screen```** 에만 원하는 UI를 노출시킬 수도 있습니다.
 
-### ManagerUI
+## ManagerUI
 
-### ScreenUI
+## ScreenUI
 
-### WorldUI
+## WorldUI
