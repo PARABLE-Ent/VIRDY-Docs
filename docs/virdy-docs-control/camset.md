@@ -1,6 +1,6 @@
 ---
 sidebar_label: "카메라 세팅"
-sidebar_position: 4
+sidebar_position: 3
 ---
 
 # 카메라 세팅

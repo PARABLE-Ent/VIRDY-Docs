@@ -8,7 +8,7 @@ sidebar_position: 2
 ## 카메라 조작
 
 ![alt](/img/Page_Control/Control_1.png) <br/>
-<span class="highlight_text">**카메라 버튼(F1)**</span>을 클릭하여 카메라 설정 창을 활성화 합니다. <br/>
+중앙 하단 <span class="highlight_text">**카메라 버튼(F1)**</span>을 클릭하여 카메라 설정 창을 활성화 합니다. <br/>
 카메라는 <span class="highlight_text">**자유시점 (프리캠) 1대와 고정 카메라 9대**</span>로 이루어져 있습니다.
 
 ### 자유시점 (프리캠)

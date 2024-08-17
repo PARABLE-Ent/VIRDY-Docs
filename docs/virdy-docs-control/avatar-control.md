@@ -1,12 +1,12 @@
 ---
 sidebar_label: "아바타 조작"
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 # 아바타 조작
 
 ![Control](/img/Page_Control/Control_15.png) <br/>
-아바타 조작 탭을 활성화하면 위와 같은 UI를 확인할 수 있습니다.
+<span class="highlight_text">**아바타 조작 탭(F2)**</span>을 활성화하면 위와 같은 UI를 확인할 수 있습니다.
 
 ## 액터 선택
 
@@ -18,7 +18,7 @@ sidebar_position: 3
 
 ![Control](/img/Page_Control/Control_17.png) <br/>
 아바타 조작 모드를 활성화하여 조작을 할 수 있습니다. <br/>
-위 버튼은 <a href="../virdy-docs-control/ui#카메라--아바타-조작-전환" class="custom-link">**상단 버튼과 단축키 'T'**</a>로 이루어져 있습니다.
+위 기능은 <a href="../virdy-docs-control/ui#카메라--아바타-조작-전환" class="custom-link">**상단 버튼과 단축키 'T'**</a>로 스위칭 할 수 있습니다.
 
 ![Control](/img/Page_Control/Control_18.png) <br/>
 아바타의 위치를 이동할 수 있는 조작 창입니다. <br/>
@@ -38,12 +38,12 @@ sidebar_position: 3
 아바타 변경 탭에서는 <span class="highlight_text">**아바타를 변경**</span>하거나 <span class="highlight_text">**스케일**</span>을 조절할 수 있습니다. <br/>
 아바타 스케일은 기본 <span class="highlight_text">**'1'**</span>입니다. 숫자를 입력하여 스케일을 조절할 수 있습니다. <br/>
 
-아바타 변경 시 새 아바타를 불러오게 되며 서버 내에서 로딩을 하게 됩니다. 각 유저의 PC 환경에 따라 로딩 속도가 다르며 <br/>
-아바타 변경 탭 내의 <span class="highlight_text">**% 게이지**</span>를 통해 월드 내 유저들의 로딩 상태를 알 수 있습니다.
+아바타 변경 시 새 아바타를 서버 내에서 불러옵니다. <br/>
+각 유저의 PC 환경에 따라 로딩 속도가 다르며 아바타 변경 탭 내의 <span class="highlight_text">**% 게이지**</span>를 통해 월드 내 유저들의 로딩 상태를 알 수 있습니다.
 
 
 :::caution
 종종 버그로 인해 **0%** 혹은 <strong>99%</strong>에 머무르는 유저가 있을 수 있습니다. <br/>
-액터 아바타를 **None**으로 설정 후 다시 아바타를 적용해주세요. <br/>
+이 때는 아바타를 **None**으로 설정 후 다시 아바타를 변경해주세요. <br/>
 ![Control](/img/Page_Control/Control_22.png)
 :::
