@@ -1,5 +1,6 @@
 ---
-sidebar_label: "ToonLit - 컨트롤러"
+description: 'ToonLit 셰이더 컨트롤러 설명'
+sidebar_label: 'ToonLit - 컨트롤러'
 sidebar_position: 6
 ---
 

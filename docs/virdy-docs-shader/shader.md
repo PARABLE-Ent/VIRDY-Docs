@@ -1,5 +1,6 @@
 ---
-sidebar_label: "추천 셰이더"
+description: 'VIRDY 추천 셰이더'
+sidebar_label: '추천 셰이더'
 sidebar_position: 4
 ---
 

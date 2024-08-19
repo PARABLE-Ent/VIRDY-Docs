@@ -1,4 +1,5 @@
 ---
+description: 'VIRDY 카메라 조작 방법'
 sidebar_label: "카메라 조작"
 sidebar_position: 2
 ---

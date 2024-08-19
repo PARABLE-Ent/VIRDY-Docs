@@ -1,4 +1,5 @@
 ---
+description: 'VIRDY 카메라 세팅 기능 설명'
 sidebar_label: "카메라 세팅"
 sidebar_position: 3
 ---

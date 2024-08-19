@@ -1,4 +1,5 @@
 ---
+description: '스튜디오 모드 설명'
 sidebar_label: "스튜디오 모드"
 sidebar_position: 7
 ---

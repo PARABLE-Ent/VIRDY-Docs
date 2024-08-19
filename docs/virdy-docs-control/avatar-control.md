@@ -1,4 +1,5 @@
 ---
+description: '아바타 조작 방법'
 sidebar_label: "아바타 조작"
 sidebar_position: 4
 ---

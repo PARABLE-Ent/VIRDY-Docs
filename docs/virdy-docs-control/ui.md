@@ -1,4 +1,5 @@
 ---
+description: 'VIRDY 기본 UI 설명'
 sidebar_label: "UI"
 sidebar_position: 1
 ---

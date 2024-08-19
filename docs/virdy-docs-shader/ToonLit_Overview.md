@@ -1,5 +1,6 @@
 ---
-sidebar_label: "ToonLit - 개요"
+description: 'VIRDY 전용 셰이더 ToonLit 설명'
+sidebar_label: 'ToonLit - 개요'
 sidebar_position: 5
 ---
 

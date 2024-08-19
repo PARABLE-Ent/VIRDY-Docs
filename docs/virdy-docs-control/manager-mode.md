@@ -1,4 +1,5 @@
 ---
+description: '매니저 모드 설명'
 sidebar_label: "매니저 모드"
 sidebar_position: 6
 ---

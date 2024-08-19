@@ -1,4 +1,5 @@
 ---
+description: '채널 기능 설명'
 sidebar_label: "채널"
 sidebar_position: 5
 ---

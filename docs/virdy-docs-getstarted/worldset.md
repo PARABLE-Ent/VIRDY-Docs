@@ -1,5 +1,5 @@
 ---
-description: 'VIRDY 월드'
+description: 'VIRDY 월드 설명'
 sidebar_position: 3
 sidebar_label: 월드 설정
 ---
