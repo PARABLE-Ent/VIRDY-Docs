@@ -11,8 +11,8 @@ sidebar_position: 5
 
 ToonLit 원본 셰이더에 대한 전체 소스코드 접근은 <span class="highlight_text">**VIRDY 팀과의 별도 계약**</span>이 이루어진 <span class="highlight_text">**소수의 크리에이터, 아티스트**</span>에게만 배포되고 있습니다. <br/>
 
-현재는 ToonLit의 경량화 버전을 배포하여 최소한의 기능을 사용할 수 있도록 하고 있습니다. <br/>
-다만, 실제 VIRDY 내에 접속시 ToonLit 원본 셰이더로 자동 컨버팅되어 적용됩니다.
+현재는 ToonLit의 경량화 버전을 배포하여 최소한의 기능을 사용하여 세팅할 수 있도록 지원 중에 있습니다. <br/>
+실제 VIRDY 내에 접속시 ToonLit 원본 셰이더로 자동 컨버팅되어 적용됩니다.
 
 ## 세팅 방법
 

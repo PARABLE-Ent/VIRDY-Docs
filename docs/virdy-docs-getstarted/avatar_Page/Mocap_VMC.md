@@ -22,4 +22,9 @@ VIRDY 모션 트래킹 탭에서 VMC를 <span class="highlight_text">**활성화
 
 ## VMC 트래커 세팅
 
+![VMC3](/img/Page_AvatarSettings/MotionSet/VMC_3.png) <br/>
 VMC의 <span class="highlight_text">**컨트롤 패널 -> 고급설정 -> 트래커 할당 설정 열기**</span> 버튼을 눌러 트래커 설정 창으로 이동합니다.
+
+![VMC4](/img/Page_AvatarSettings/MotionSet/VMC_4.png) <br/>
+SteamVR에 연결된 트래커들이 아래 <span class="highlight_text">**트래커 목록**</span>에 표기됩니다. <br/>
+신체에 부착한 트래커에 맞게 부위별 할당을 해주세요.
