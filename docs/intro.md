@@ -30,5 +30,9 @@ sidebar_position: 1
 
 ## Discord
 
+:::danger 공사중 !
+지금은 디스코드 서버 들어와도 아무것도 없습니다!
+:::
+
 프로그램의 업데이트 소식, 각종 문의사항 등은 <a href="https://discord.gg/jThhrjA3ka" class="custom-link">**Discord**</a> 서버에서 이루어지고 있습니다. <br/>
 자유롭게 서버에 입장하여 각종 소식을 확인할 수 있습니다.
