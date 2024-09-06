@@ -13,4 +13,4 @@ VIRDY는 <span class="highlight_text">**Unity URP Forward+**</span> 환경에서
 - <a href="https://github.com/vrm-c/UniVRM/releases?page=2" target="_black" class="custom-link">**Mtoon URP**</a>
 - **ToonLit (VIRDY 전용)**
 
-ToonLit 셰이더에 대한 정보는 <a href="/VIRDY-Docs/docs/virdy-docs-shader/ToonLit" class="custom-link">이 페이지</a>로 이동해주세요.
+ToonLit 셰이더에 대한 정보는 <a href="./ToonLit_Overview" class="custom-link">이 페이지</a>로 이동해주세요.

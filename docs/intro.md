@@ -17,7 +17,7 @@ sidebar_position: 1
 설치 파일이 필요한 경우 <span class="highlight_text">**담당 패러블 매니저**</span>로 문의 부탁드립니다.
 
 :::caution 설치 에러 !
-종종 VIRDY 실행시 **무한 로딩**이 발생하는 경우가 있습니다. 이는 PC에서 특정 파일을 읽어오지 못하여 생기는 문제입니다. <br/>
+종종 VIRDY 실행시 **무한 로딩**이 발생하거나 **Firebase** 관련 에러가 뜨는 경우가 있습니다. <br/>
 **[C++ Redistributable](https://learn.microsoft.com/ko-kr/cpp/windows/latest-supported-vc-redist?view=msvc-170)** 해당 패키지를 설치하여 문제를 해결할 수 있습니다.
 :::
 
